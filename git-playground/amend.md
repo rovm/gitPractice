@@ -1,1 +1,1 @@
-ammend 실습하기
+ammend 실습하기.
